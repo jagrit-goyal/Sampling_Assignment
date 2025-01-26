@@ -49,6 +49,6 @@ K-Nearest Neighbors
 
 Each model is trained and tested with the five sampling techniques, and performance is evaluated using accuracy.
 
-![My Image](result.png)
+![My Image](result.PNG)
 
 ## After evaluating the performance of various sampling techniques combined with different machine learning models, the results revealed that RandomForestClassifier along with oversampler sampling method had the most accuracy of 1.000000
